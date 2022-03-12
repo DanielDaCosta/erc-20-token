@@ -42,3 +42,7 @@ Deploy to truffle develop
 
 ## Deploy to Ropsten Test Network
 In the file `truffle-config.js`, replace {YOUR_PRIVATE_KEY} with your **Metamask** private key and {YOUR_INFURA_ACCOUNT} with your **infura** account robsten endpoint
+
+```
+truffle migrate --reset --network ropsten
+```
