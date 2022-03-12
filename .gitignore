@@ -1,3 +1,7 @@
+# Metamask secret
+.secret
+
+
 # Logs
 logs
 *.log
