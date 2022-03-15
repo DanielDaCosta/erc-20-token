@@ -29,7 +29,8 @@ Update `contracts/DanielToken.sol` with your new token information.
 To be able to deploy your token you will need to create a file in the migrations folder create a new file *2_initial_migration.js*. 
 
 ## (optional) Deploy to a local blockchain
-Deploy to truffle develop
+Deploy to truffle develop:
+
 ```
 1) Open a Terminal window, and make sure you are inside your project directory
 
